@@ -1,0 +1,22 @@
+2023-08-07 19:55:11,636: Test_Oranghrm_log : INFO : 14 : test_loghrm: Open The Browser
+2023-08-07 19:55:11,761: Test_Oranghrm_log : INFO : 19 : test_loghrm: Maximize The Browser 
+2023-08-07 19:55:15,840: Test_Oranghrm_log : INFO : 22 : test_loghrm: Go to The OrnageHRM Login Page 
+2023-08-07 19:55:16,566: Test_Oranghrm_log : INFO : 25 : test_loghrm: Enter Username 
+2023-08-07 19:55:16,731: Test_Oranghrm_log : INFO : 28 : test_loghrm: Eneter Browser 
+2023-08-07 19:55:17,974: Test_Oranghrm_log : INFO : 31 : test_loghrm: Click On Login Button 
+2023-08-07 19:55:20,128: Test_Oranghrm_log : INFO : 36 : test_loghrm: Loout Form The Application 
+2023-08-07 19:55:20,539: Test_Oranghrm_log : WARNING : 48 : test_loghrm: THIS IS WARNING 
+2023-08-07 19:55:20,540: Test_Oranghrm_log : CRITICAL : 49 : test_loghrm: THIS IS CRITICAL 
+2023-08-07 19:55:20,540: Test_Oranghrm_log : ERROR : 50 : test_loghrm: THIS IS ERROR 
+2023-08-07 19:55:20,540: Test_Oranghrm_log : CRITICAL : 51 : test_loghrm: THIS IS CRITICAL 
+2023-08-08 21:29:51,450: Test_Oranghrm_log : INFO : 14 : test_loghrm: Open The Browser 
+2023-08-08 21:29:51,639: Test_Oranghrm_log : INFO : 19 : test_loghrm: Maximize The Browser 
+2023-08-08 21:29:55,279: Test_Oranghrm_log : INFO : 22 : test_loghrm: Go to The OrnageHRM Login Page 
+2023-08-08 21:29:56,355: Test_Oranghrm_log : INFO : 25 : test_loghrm: Enter Username 
+2023-08-08 21:29:56,555: Test_Oranghrm_log : INFO : 28 : test_loghrm: Eneter Browser 
+2023-08-08 21:29:56,801: Test_Oranghrm_log : INFO : 31 : test_loghrm: Click On Login Button 
+2023-08-08 21:30:00,031: Test_Oranghrm_log : INFO : 36 : test_loghrm: Loout Form The Application 
+2023-08-08 21:30:00,381: Test_Oranghrm_log : WARNING : 48 : test_loghrm: THIS IS WARNING 
+2023-08-08 21:30:00,381: Test_Oranghrm_log : CRITICAL : 49 : test_loghrm: THIS IS CRITICAL 
+2023-08-08 21:30:00,381: Test_Oranghrm_log : ERROR : 50 : test_loghrm: THIS IS ERROR 
+2023-08-08 21:30:00,381: Test_Oranghrm_log : CRITICAL : 51 : test_loghrm: THIS IS CRITICAL 
